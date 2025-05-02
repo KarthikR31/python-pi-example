@@ -1,5 +1,4 @@
 def main(msg):
-	//Print a Message
     print(msg)
 
 print ("Hello World")
