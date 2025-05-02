@@ -1,9 +1,5 @@
 def main(msg):
-<<<<<<< HEAD
     //Adding a different comment
-=======
-	//Print a Message
->>>>>>> refs/remotes/origin/main
     print(msg)
 
 print ("Hello World")
